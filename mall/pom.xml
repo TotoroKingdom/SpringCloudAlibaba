@@ -15,6 +15,7 @@
         <module>mall-web</module>
         <module>mall-util/mall-service-dependency</module>
         <module>mall-util/mall-common</module>
+        <module>mall-service/mall-goods-service</module>
     </modules>
     <packaging>pom</packaging>
     <description>mall</description>
